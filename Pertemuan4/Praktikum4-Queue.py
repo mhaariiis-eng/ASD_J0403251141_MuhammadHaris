@@ -4,7 +4,7 @@
 #                                                    #
 #           NIM : J0403251141                         #
 #
-#    Prodi : Teknologi Rekayasa Perangkat Lunak
+#    Prodi : Teknologi Rekayasa Perangkat Lunak B2
 #
 #    Implementasi dasar : Queue berbasis LinkedList
 #
@@ -16,6 +16,8 @@ class Node:
         self.next = None    #pointer ke node berikutnya
 
 #Queue dengan 2 pointer : head and tail
+
+
 class QueueLL:
     def __init__(self):
         self.head = None    #Node paling depan

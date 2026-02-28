@@ -1,7 +1,7 @@
 #====================================================#
 #           Nama : Muhammad Haris
 #           NIM : J0403251141
-#           Prodi : Teknologi Rekayasa Perangkat Lunak
+#           Prodi : Teknologi Rekayasa Perangkat Lunak B2
 #
 #
 #Implementasi Dasar : Node pada Linked List
